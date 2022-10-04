@@ -2,7 +2,7 @@
 Starting my journey to become a Software Engineer<br>Creating new codes that can help people<br>Learning Python<br><br>I'm a fan of languages, lucky me programming languages count as languages too.
 
 
-## 🌐 Social Media
+# 🌐 Social Media
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@danielabai) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/daniealxiaobai) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/danielabbai) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCR27ZeJPvnTQpPIdU9JKpnw) 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@ Starting my journey to become a Software Engineer<br>Creating new codes that can
 ![](https://github-readme-streak-stats.herokuapp.com/?user=danielabai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielabai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 💫 Memes:
+## 💫 Memes:
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
