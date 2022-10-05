@@ -1,5 +1,5 @@
 # 💫 About Me:
-Starting my journey to become a Software Engineer<br>Creating new codes that can help people<br>Learning Python<br><br>I'm a fan of languages, lucky me programming languages count as languages too.
+Starting my journey to become a Software Engineer<br>Programming new stuff to learn, create new things and help people <3 <br>Learning Python<br><br>I'm a fan of languages, lucky me programming languages count as languages too.
 
 
 # 🌐 Social Media
