@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniela Bai</h1>
-<h3 align="center">(Daniela Barazarte)</h3>
+<h2 align="center">(Daniela Barazarte)</h2>
 
 - 🔭 I’m currently **developing my experience as a Softwaer Developer**
 - 🌱 I’m currently **learning Python and some of its frameworks**
