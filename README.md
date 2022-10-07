@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniela Bai</h1>
-<h2 align="center">(Daniela Barazare)</h2>
-<h3 align="center">and as 白黛澜 as well hahah</h3>
+<h3 align="center">(Daniela Barazarte)</h3>
 
 - 🔭 I’m currently **developing my experience as a Softwaer Developer**
 - 🌱 I’m currently **learning Python and some of its frameworks**
