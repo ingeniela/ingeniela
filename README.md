@@ -1,7 +1,7 @@
 <h1 align="center">Daniela Bai</h1>
 <h2 align="center">(Daniela Barazarte)</h2>
 
-Hi there 👋. I'm Daniela Bai (Daniela Barazarte) here on GitHub 
+Hi there 👋. It's Daniela Bai (Daniela Barazarte) here on GitHub 
 - 🔭 I’m currently **developing my experience as a Software Developer**
 - 🌱 I’m currently **learning Python and some of its frameworks**
 
