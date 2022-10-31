@@ -1,7 +1,9 @@
+<div align="center">
 ![DanielaBaiBLUEPGIF.gif](DanielaBaiBLUEPGIF.gif.gif)
-
+</div>
+<div align="center">
 [Twitter](https://twitter.com/danielabai8?source=about_page-------------------------------------) / [Instagram](https://instagram.com/danielabai8?source=about_page-------------------------------------)  / [Youtube](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw?source=about_page-------------------------------------)  / [Medium](https://danielabai.medium.com/)  / [Behance](https://www.behance.net/danielabai?source=about_page-------------------------------------)
-
+</div>
 ## 👋 About me
 
 My name is Daniela Barazarte, also known as Daniela Bai and I’m curretly self-studying new technological skills.
