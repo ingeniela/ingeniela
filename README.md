@@ -1,27 +1,40 @@
-<h1 align="center">Daniela Bai</h1>
-<h2 align="center">(Daniela Barazarte)</h2>
+# readme
 
-Hi there 👋. It's Daniela Bai (Daniela Barazarte) here on GitHub 
-- 🔭 I’m currently **developing my experience as a Software Developer**
-- 🌱 I’m currently **learning Python and some of its frameworks**
+![DanielaBaiBLUEPGIF.gif](readme%2044f34b062ac54a798eb8c422507c6e73/DanielaBaiBLUEPGIF.gif)
 
-## 🌐 Connect with me
-- I regularly write posts on my [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@danielabai) 
-- I post things about my next projects on [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/danielabbai) 
-- I upload some videos about Technology and Languages on [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCR27ZeJPvnTQpPIdU9JKpnw) 
-- I show my graphic designer side on [Behance](https://www.behance.net/danielabai)
+[Twitter](https://twitter.com/danielabai8?source=about_page-------------------------------------) / [Instagram](https://instagram.com/danielabai8?source=about_page-------------------------------------)  / [Youtube](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw?source=about_page-------------------------------------)  / [Medium](https://danielabai.medium.com/)  / [Behance](https://www.behance.net/danielabai?source=about_page-------------------------------------)
 
-## Languages and tools I'm into:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+## 👩🏼‍💻 About me
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=danielabai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=danielabai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielabai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+My name is Daniela Barazarte, also known as Daniela Bai and I’m curretly self-studying new technological skills.
 
-## 💫 Memes:
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### 💡 Quick facts
 
+Right now I live in my home country Venezuela 🇻🇪 but I can speak multiple languages as English 🇺🇸, Mandarin Chinese 🇨🇳 and Portuguese 🇧🇷… and if you want to count it, Python 🐍 too!
 
----
-[![](https://visitcount.itsvg.in/api?id=danielabai&icon=0&color=0)](https://visitcount.itsvg.in)
+I post some of my experiences and research results on my [Personal Blog](https://danielabai.medium.com/) ✍🏻 and sometimes I post videos on my [Youtube Account](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw?source=about_page-------------------------------------) 🎥. 
+
+I’m also into Graphic Design 👩🏼‍🎨 and my personal Portafolio is available on [Behance](https://www.behance.net/danielabai?source=about_page-------------------------------------). But right now I’m mainly working on my ability as a programmer posting new projects  here on GitHub 👩🏼‍💻.
+
+### 👷🏼‍♀️ Current Projects
+
+Some of the projects I have been/I’m into.
+
+- Simtracan Translator \ Translation Software \ Python: Tkinter \ Software that can translate text in Simplified Mandarin, Traditional Mandarin, Mandarin Pinyin, Cantonese, Cantonese Pinyin (Jyutping), Chinese Zhuyin and also Chinese Unicode
+
+(by the way, you can see updates of the projects I’m into on my [Twitter](https://twitter.com/danielabai8?source=about_page-------------------------------------))
+
+## 🚀 Tech stack
+
+### 💻 Languages
+
+- Python
+- BASIC
+
+### ⚒️ Technologies
+
+- Adobe Photoshop
+- Adobe Illustrator
+- Cinema 4D
+
+![DanielaBai GIF.gif](readme%2044f34b062ac54a798eb8c422507c6e73/DanielaBai_GIF.gif)
