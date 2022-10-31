@@ -10,7 +10,7 @@ My name is Daniela Barazarte, also known as Daniela Bai and I’m curretly self-
 
 Right now I live in my home country Venezuela 🇻🇪 but I can speak multiple languages as English 🇺🇸, Mandarin Chinese 🇨🇳 and Portuguese 🇧🇷… and if you want to count it, Python 🐍 too!
 
-I post some of my experiences and research results on my [Personal Blog](https://danielabai.medium.com/) ✍🏻 and sometimes I post videos on my [Youtube Account](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw?source=about_page-------------------------------------) 🎥. 
+I post some of my experiences and research results on my [Personal Blog](https://danielabai.medium.com/) ✍️ and sometimes I post videos on my [Youtube Account](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw?source=about_page-------------------------------------) 🎥. 
 
 I’m also into Graphic Design 👩🏼‍🎨 and my personal Portafolio is available on [Behance](https://www.behance.net/danielabai?source=about_page-------------------------------------). But right now I’m mainly working on my ability as a programmer posting new projects  here on GitHub 👩🏼‍💻.
 
