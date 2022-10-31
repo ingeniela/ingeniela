@@ -18,7 +18,7 @@ I’m also into Graphic Design 👩🏼‍🎨 and my personal Portafolio is ava
 
 Some of the projects I have been/I’m into.
 
-- Simtracan Translator \ Translation Software \ Python: Tkinter \ Software that can translate text in Simplified Mandarin, Traditional Mandarin, Mandarin Pinyin, Cantonese, Cantonese Pinyin (Jyutping), Chinese Zhuyin and also Chinese Unicode
+- [Simtracan Translator](https://github.com/danielabai/simtracan-translator) \ Translation Software \ Python: Tkinter \ Software that can translate text in Simplified Mandarin, Traditional Mandarin, Mandarin Pinyin, Cantonese, Cantonese Pinyin (Jyutping), Chinese Zhuyin and also Chinese Unicode
 
 (by the way, you can see updates of the projects I’m into on my [Twitter](https://twitter.com/danielabai8?source=about_page-------------------------------------))
 
