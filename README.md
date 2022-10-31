@@ -36,5 +36,3 @@ Some of the projects I have been/I’m into.
 - Adobe Photoshop
 - Adobe Illustrator
 - Cinema 4D
-
-![DanielaBai GIF.gif](DanielaBai_GIF.gif)
