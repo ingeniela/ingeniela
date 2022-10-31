@@ -27,6 +27,7 @@ Some of the projects I have been/I’m into.
 ### 💻 Languages
 
 - Python
+- JavaScript
 - BASIC
 
 ### ⚒️ Technologies
@@ -34,3 +35,7 @@ Some of the projects I have been/I’m into.
 - Adobe Photoshop
 - Adobe Illustrator
 - Cinema 4D
+- Markdown
+- Blender
+- Notion
+- Canvas
