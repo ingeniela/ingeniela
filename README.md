@@ -1,6 +1,6 @@
 # readme
 
-![DanielaBaiBLUEPGIF.gif](readme%2044f34b062ac54a798eb8c422507c6e73/DanielaBaiBLUEPGIF.gif)
+![DanielaBaiBLUEPGIF.gif](DanielaBaiBLUEPGIF.gif)
 
 [Twitter](https://twitter.com/danielabai8?source=about_page-------------------------------------) / [Instagram](https://instagram.com/danielabai8?source=about_page-------------------------------------)  / [Youtube](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw?source=about_page-------------------------------------)  / [Medium](https://danielabai.medium.com/)  / [Behance](https://www.behance.net/danielabai?source=about_page-------------------------------------)
 
@@ -37,4 +37,4 @@ Some of the projects I have been/I’m into.
 - Adobe Illustrator
 - Cinema 4D
 
-![DanielaBai GIF.gif](readme%2044f34b062ac54a798eb8c422507c6e73/DanielaBai_GIF.gif)
+![DanielaBai GIF.gif](DanielaBai_GIF.gif)
