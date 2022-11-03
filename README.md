@@ -6,7 +6,7 @@
   
 ## 👩🏼‍💻 Who am I
 
-Hello there, my name is Daniela Barazarte, also known as Daniela Bai 🤍.
+Hello there, my name is Daniela Barazarte, also known as Daniela Bai 🤍
 
 Since I was young I had a big interest in technology, which allowed me to learn more about it as I grew up and come to realization that being a programmer has many thigns that I enjoy such as writing, creating, designing, solving problems and spending a lot of time learning new things.
 
