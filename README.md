@@ -1,9 +1,6 @@
 <p align="center">
 <img height="auto" width="50%" src="https://github.com/danielabai/danielabai/blob/main/DanielaBaiBLUEPGIF.gif.gif?raw=true"/>
 <p>
-
-[Twitter](https://twitter.com/danielabai8?source=about_page-------------------------------------) / [Instagram](https://instagram.com/danielabai8?source=about_page-------------------------------------)  / [Youtube](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw?source=about_page-------------------------------------)  / [Medium](https://danielabai.medium.com/)  / [Behance](https://www.behance.net/danielabai?source=about_page-------------------------------------)
-<p>
   
 ## 👩🏼‍💻 Who am I
 
@@ -27,7 +24,7 @@ Since I was young I had a big interest in technology, which allowed me to learn 
 </details>
 <p>
  
-## 👷🏼‍♀️ What I have done
+## 👷🏼‍♀️ What have I done
 
 ### 🚀 Projects
 
@@ -78,10 +75,10 @@ Design: Adobe Photoshop / Adobe Illustrator
 
 Software: Picaxe Editor / Livewire
 
-## 📞 Contact me
+## 📞 Where can you know more about me / Contact me
 
-- [Twitter](https://twitter.com/danielabai8): danielabai8
-- Email: danielabai888@gmail.com
+[Twitter](https://twitter.com/danielabai8?source=about_page-------------------------------------) / [Instagram](https://instagram.com/danielabai8?source=about_page-------------------------------------)  / [Youtube](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw?source=about_page-------------------------------------)  / [Medium](https://danielabai.medium.com/)  / [Behance](https://www.behance.net/danielabai?source=about_page-------------------------------------)
+<p>
 
 > I’m totally open for colabs :)
 >
