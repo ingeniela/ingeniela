@@ -1,23 +1,31 @@
 <p align="center">
 <img height="auto" width="50%" src="https://github.com/danielabai/danielabai/blob/main/DanielaBaiBLUEPGIF.gif.gif?raw=true"/>
-</p>
-<p align="center">
-[Twitter](https://twitter.com/danielabai8?source=about_page-------------------------------------) / [Instagram](https://instagram.com/danielabai8?source=about_page-------------------------------------)  / [Youtube](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw?source=about_page-------------------------------------)  / [Medium](https://danielabai.medium.com/)  / [Behance](https://www.behance.net/danielabai?source=about_page-------------------------------------)
-</p>
+<p>
 
+[Twitter](https://twitter.com/danielabai8?source=about_page-------------------------------------) / [Instagram](https://instagram.com/danielabai8?source=about_page-------------------------------------)  / [Youtube](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw?source=about_page-------------------------------------)  / [Medium](https://danielabai.medium.com/)  / [Behance](https://www.behance.net/danielabai?source=about_page-------------------------------------)
+<p>
 ## 👩🏼‍💻 Who am i
 
 Helllo there, my name is Daniela Barazarte, also known as Daniela Bai 🤍.
 
 Since I was young I had a big interest in technology, which allowed me to learn more about it as I grew up and come to realization that being a programmer has many thigns that I enjoy such as writing, creating, designing, solving problems and spending a lot of time learning new things.
 
-### 💡 Quick facts
-
+<div>
+<details>
+  <summary> 💡 Quick facts</summary>
 - 🇻🇪 Right now I live in my home country Venezuela
+
+
 - 🐍 I can speak multiple languages as English (C1-C2), Mandarin Chinese (B2) and Portuguese (B1)… and if you want to count it, Python too!
-- ✍🏻 I post some of my experiences and research results on my [Personal Blog](https://danielabai.medium.com/) and sometimes on my [Youtube Account](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw?source=about_page-------------------------------------)
-- 👩🏼‍🎨 I’m also into Graphic Design and my personal Portafolio is available on [Behance](https://www.behance.net/danielabai?source=about_page-------------------------------------).
+
+
+- ✍🏻 I post some of my experiences and research results on my [Personal Blog](https://danielabai.medium.com/) and sometimes on my [Youtube Account](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw)
+
+
+- 👩🏼‍🎨 I’m also into Graphic Design and my personal Portafolio is available on [Behance](https://www.behance.net/danielabai)
+
 - 👩🏼‍💻 But right now I’m mainly working on my ability as a programmer posting new projects here on GitHub
+</details>
 
 ## 👷🏼‍♀️ What I have done
 
