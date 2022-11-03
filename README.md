@@ -86,5 +86,5 @@ Software: Picaxe Editor / Livewire
 >
   
 <p align="center">
-<img height="auto" width="10%" src="https://github.com/danielabai/danielabai/blob/main/logo/gif/Black2White.gif?raw=true"/>
+<img height="auto" width="5%" src="https://github.com/danielabai/danielabai/blob/main/logo/gif/Black2White.gif?raw=true"/>
 </p>
