@@ -34,6 +34,7 @@ Some of the projects I have been / I’m into.
 <img align="left" height="100px" width="100px" alt="Daniela Bai Logo" src="https://github.com/danielabai/danielabai/blob/main/project_img/SMTC_LOGO.jpg?raw=true"/>
 
 **Simtracan Translator \ Translation Software** 
+
 Software that can translate text in Simplified Mandarin, Traditional Mandarin, Mandarin Pinyin, Cantonese, Cantonese Pinyin (Jyutping), Chinese Zhuyin and also Chinese Unicode.
 
 Languages & Technologies used: `Python`, `Python Tkinter`
