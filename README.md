@@ -5,7 +5,7 @@
 [Twitter](https://twitter.com/danielabai8?source=about_page-------------------------------------) / [Instagram](https://instagram.com/danielabai8?source=about_page-------------------------------------)  / [Youtube](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw?source=about_page-------------------------------------)  / [Medium](https://danielabai.medium.com/)  / [Behance](https://www.behance.net/danielabai?source=about_page-------------------------------------)
 <p>
   
-## 👩🏼‍💻 Who am i
+## 👩🏼‍💻 Who am I
 
 Hello there, my name is Daniela Barazarte, also known as Daniela Bai 🤍.
 
@@ -14,7 +14,7 @@ Since I was young I had a big interest in technology, which allowed me to learn 
 <p>
 <div>
 <details>
-  <summary> 💡 Quick facts</summary>
+  <summary> 💡 Quick facts about me</summary>
 - 🇻🇪 Right now I live in my home country Venezuela
 
 - 🐍 I can speak multiple languages as English (C1-C2), Mandarin Chinese (B2) and Portuguese (B1)… and if you want to count it, Python too!
