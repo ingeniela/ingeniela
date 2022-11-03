@@ -12,6 +12,7 @@ Since I was young I had a big interest in technology, which allowed me to learn 
 <div>
 <details>
   <summary> 💡 Quick facts about me</summary>
+
 - 🇻🇪 Right now I live in my home country Venezuela
 
 - 🐍 I can speak multiple languages as English (C1-C2), Mandarin Chinese (B2) and Portuguese (B1)… and if you want to count it, Python too!
