@@ -50,7 +50,7 @@ Some of the achievements I have gotten.
 - Design, create and educate the workshop “Basic Computer Skills” during 4 days and 20 hours in total, using Linux and LibreOffice for teaching
 - Pass the EF SET exam (Standard English Test) with 73% and being awared with level C2
 
-## 🚀 Tech stack
+## 🚀 What I'm into
 
 ### 💻 Languages
 
