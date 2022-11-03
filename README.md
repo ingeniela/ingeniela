@@ -84,7 +84,7 @@ Software: Picaxe Editor / Livewire
 
 > BTW, you can contact me in my Twitter! I check it almost everyday :)
 >
-
+  
 <p align="center">
-<img height="auto" width="10%" src="https://github.com/danielabai/danielabai/blob/main/DanielaBai_GIF.gif?raw=true"/>
+<img height="auto" width="10%" src="https://github.com/danielabai/danielabai/blob/main/logo/gif/Black2White.gif?raw=true"/>
 </p>
