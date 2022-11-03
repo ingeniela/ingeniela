@@ -35,7 +35,7 @@ Some of the projects I have been / I’m into.
 
 <img align="left" height="100px" width="100px" alt="Simtracan Translator Logo" src="https://github.com/danielabai/danielabai/blob/main/projects/Simtracan%20Translator.png?raw=true"/>
 
-**Simtracan Translator \ Translation Software** 
+**Simtracan Translator** \ Developer & Designer \ Translation Software
 
 Software that can translate text in Simplified Mandarin, Traditional Mandarin, Mandarin Pinyin, Cantonese, Cantonese Pinyin (Jyutping), Chinese Zhuyin and also Chinese Unicode.
 
