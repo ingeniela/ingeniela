@@ -1,6 +1,7 @@
 <p align="center">
 <img height="auto" width="50%" src="https://github.com/danielabai/danielabai/blob/main/DanielaBaiBLUEPGIF.gif.gif?raw=true"/>
-  
+</p>
+<p align="center">
 [Twitter](https://twitter.com/danielabai8?source=about_page-------------------------------------) / [Instagram](https://instagram.com/danielabai8?source=about_page-------------------------------------)  / [Youtube](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw?source=about_page-------------------------------------)  / [Medium](https://danielabai.medium.com/)  / [Behance](https://www.behance.net/danielabai?source=about_page-------------------------------------)
 </p>
 
