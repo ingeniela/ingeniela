@@ -76,12 +76,12 @@ Design: Adobe Photoshop / Adobe Illustrator
 
 Software: Picaxe Editor / Livewire
 
-## 📞 Where can you know more about me / Contact me
+## 📞 Where else you can find me
 
 [Twitter](https://twitter.com/danielabai8?source=about_page-------------------------------------) / [Instagram](https://instagram.com/danielabai8?source=about_page-------------------------------------)  / [Youtube](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw?source=about_page-------------------------------------)  / [Medium](https://danielabai.medium.com/)  / [Behance](https://www.behance.net/danielabai?source=about_page-------------------------------------)
 <p>
 
-> I’m totally open for colabs :)
+> BTW, I’m totally open for colabs :)
 >
 
 <p align="center">
