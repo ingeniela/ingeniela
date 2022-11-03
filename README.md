@@ -39,8 +39,8 @@ Some of the projects I have been / I’m into.
 Software that can translate text in Simplified Mandarin, Traditional Mandarin, Mandarin Pinyin, Cantonese, Cantonese Pinyin (Jyutping), Chinese Zhuyin and also Chinese Unicode.
 
 Languages & Technologies used: `Python`, `Python Tkinter`
-
-
+.
+  
 > by the way, you can see updates of the projects I’m into on my [Twitter](https://twitter.com/danielabai8?source=about_page-------------------------------------)
 > 
 
