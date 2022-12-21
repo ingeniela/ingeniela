@@ -40,10 +40,18 @@ Some of the projects I have been / I’m into.
 Translation Software: it's a software that can translate text in Simplified Mandarin, Traditional Mandarin, Mandarin Pinyin, Cantonese, Cantonese Pinyin (Jyutping), Chinese Zhuyin and also Chinese Unicode.
 
 Languages & Technologies used: `Python`, `Python Tkinter`
-
   
-> by the way, you can see updates of the projects I’m into on my [Twitter](https://twitter.com/danielabai8)
-> 
+### 🚀 Work Experience
+  
+<img align="left" height="100px" width="100px" alt="Punto Singular Logo" src="https://github.com/danielabai/danielabai/blob/main/work_experience/punto_singular.png?raw=true"/>
+
+Punto Singular | Software Engineer
+
+Translation Software: it's a software that can translate text in Simplified Mandarin, Traditional Mandarin, Mandarin Pinyin, Cantonese, Cantonese Pinyin (Jyutping), Chinese Zhuyin and also Chinese Unicode.
+
+Languages & Technologies used: `Visual Studio 2022` , `C#` · `.NET Core 6` , `ASP.NET MVC` · `Razor Pages` , `SQL` · `MySQL` · `SQLAlchemy` , `JavaScript` · `HTML` · `CSS`
+
+ 
 
 ### ⭐ Achievements
 
