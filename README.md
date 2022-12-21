@@ -57,27 +57,11 @@ Some of the achievements I have gotten.
 
 ### 💻 Languages
 
-**I’m familiar with:**
-
-Python
-
-**I have worked with:**
-
-BASIC / Javascript: HTML, CSS
+Python · Django / C# · .NET Core 6 / ASP.NET MVC / SQL · SQLAlchemy · MySQL / JavaScript · HTML · CSS 
 
 ### ⚒️ Technologies
 
-**I’m familiar with:**
-
-Operating System: Windows 7, 8, 10 / Linux
-
-Design: Adobe Photoshop / Adobe Illustrator 
-
-3D-related: Cinema 4D, Blender
-
-**I have worked with:**
-
-Software: Picaxe Editor / Livewire
+Windows 7, 8, 10 · Linux
 
 ## 📞 Where else I'm at
 
