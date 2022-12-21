@@ -35,22 +35,21 @@ Some of the projects I have been / I’m into.
 
 <img align="left" height="100px" width="100px" alt="Simtracan Translator Logo" src="https://github.com/danielabai/danielabai/blob/main/projects/Simtracan%20Translator.png?raw=true"/>
 
-**[Simtracan Translator](https://github.com/danielabai/simtracan-translator)** : Creator, Developer & Designer
+**[Simtracan Translator](https://github.com/danielabai/simtracan-translator)** | Creator, Developer & Designer | Sep.2022 - Nov.2022
 
 Translation Software: it's a software that can translate text in Simplified Mandarin, Traditional Mandarin, Mandarin Pinyin, Cantonese, Cantonese Pinyin (Jyutping), Chinese Zhuyin and also Chinese Unicode.
 
 Languages & Technologies used: `Python`, `Python Tkinter`
   
-### 🚀 Work Experience
+### 💼 Work Experience
   
 <img align="left" height="100px" width="100px" alt="Punto Singular Logo" src="https://github.com/danielabai/danielabai/blob/main/work_experience/punto_singular.png?raw=true"/>
 
-Punto Singular | Software Engineer
+Software Engineer | Punto Singular · Internship | Dec.2022 - Present
 
-Translation Software: it's a software that can translate text in Simplified Mandarin, Traditional Mandarin, Mandarin Pinyin, Cantonese, Cantonese Pinyin (Jyutping), Chinese Zhuyin and also Chinese Unicode.
+Developing experience and knowledge as a Software Engineer
 
-Languages & Technologies used: `Visual Studio 2022` , `C#` · `.NET Core 6` , `ASP.NET MVC` · `Razor Pages` , `SQL` · `MySQL` · `SQLAlchemy` , `JavaScript` · `HTML` · `CSS`
-
+Languages & Technologies used: `Visual Studio 2022` , `C#`·`.NET Core 6` , `ASP.NET MVC`·`Razor Pages` , `SQL`·`MySQL`·`SQLAlchemy` , `JavaScript`·`HTML`·`CSS`
  
 
 ### ⭐ Achievements
