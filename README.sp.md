@@ -4,7 +4,7 @@
   
 Lee esto en otros idiomas: [English](README.md) · [Español](README.sp.md) · [Português](README.pt.md) · [简体中文](README.zh-s.md) · [繁體中文](README.zh-t.md).
   
-## 👩🏼‍💻 Who am I
+## 👩🏼‍💻 Quien soy
 
 Hola, mi nombre es Daniela Barazarte, también conocida como Daniela Bai 🤍
 
