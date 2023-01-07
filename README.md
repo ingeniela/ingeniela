@@ -1,8 +1,6 @@
-
-Read this .md in other languages: [English](README.md), [Español](README.sp.md), [Português](README.pt.md), [简体中文](README.zh-s.md), [繁體中文](README.zh-t.md).
-
 <p align="center">
 <img height="auto" width="12%" src="https://github.com/danielabai/danielabai/blob/main/logo/gif/2g.gif?raw=true"/>
+Read this .md in other languages: [English](README.md) · [Español](README.sp.md) · [Português](README.pt.md) · [简体中文](README.zh-s.md) · [繁體中文](README.zh-t.md).
 <p>
   
 ## 👩🏼‍💻 Who am I
