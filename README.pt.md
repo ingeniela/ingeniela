@@ -41,7 +41,7 @@ Linguagens e tecnologias utilizadas:: `PyCharm` , `Python`:`Python Tkinter`,`Pyt
   
 ### 💼 Experiência profissional
   
-<img align="left" height="100px" width="100px" alt="Single Point Logo" src="https://github.com/danielabai/danielabai/blob/main/work_experience/single_point.png?raw=true"/>
+<img align="left" height="100px" width="100px" alt="Punto Singular Logo" src="https://github.com/danielabai/danielabai/blob/main/work_experience/punto_singular.png?raw=true"/>
 
 **Ponto Singular · Práticas | engenheiro de software | Dez.2022 - Presente**
 
