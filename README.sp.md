@@ -2,7 +2,7 @@
 <img height="auto" width="12%" src="https://github.com/danielabai/danielabai/blob/main/logo/gif/2g.gif?raw=true"/>
 <p>
   
-Read in other languages: [English](README.md) · [Español](README.sp.md) · [Português](README.pt.md) · [简体中文](README.zh-s.md) · [繁體中文](README.zh-t.md).
+Lee esto en otros idiomas: [English](README.md) · [Español](README.sp.md) · [Português](README.pt.md) · [简体中文](README.zh-s.md) · [繁體中文](README.zh-t.md).
   
 ## 👩🏼‍💻 Who am I
 
