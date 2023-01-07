@@ -19,7 +19,7 @@ Desde muito jovem tive um grande interesse por tecnologia, o que me permitiu apr
   
 - 🐍 Falo vários idiomas como inglês (C1-C2), chinês mandarim (B2) e português (B1)… e se quiser contar, Python também!
 
-- ✍🏻 Posto algumas das minhas experiências e resultados de pesquisa no meu [blog pessoal](https://danielabai.medium.com/) e às vezes na minha [conta do YouTube](https://www.youtube .com/channel /UCR27ZeJPvnTQpPIdU9JKpnw)
+- ✍🏻 Posto algumas das minhas experiências e resultados de pesquisa no meu [blog pessoal](https://danielabai.medium.com/) e às vezes na minha [conta do YouTube](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw)
 
 - 👩🏼‍🎨 Também gosto de design gráfico e meu portfólio pessoal está disponível no [Behance](https://www.behance.net/danielabai)
   
