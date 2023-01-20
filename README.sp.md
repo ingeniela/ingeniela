@@ -8,16 +8,16 @@ Lee esto en otros idiomas: [English](README.md) · [Español](README.sp.md) · [
 
 Hola, mi nombre es Daniela Barazarte, también conocida como Daniela Bai 🤍
 
-Desde muy pequeña tuve un gran interés en la tecnología, lo que me permitió aprender más sobre ella a medida que crecía y me di cuenta de que ser programadoradora tiene muchas cosas que disfruto, como escribir, crear, diseñar, resolver problemas y gastar. mucho tiempo aprendiendo cosas nuevas.
+Desde muy pequeña tuve un gran interés en la tecnología, lo que me permitió aprender más sobre ella a medida que crecía y me di cuenta de que ser programadoradora tiene muchas cosas que disfruto, como escribir, crear, diseñar, resolver problemas e invertir mucho tiempo aprendiendo cosas nuevas.
 
 <p>
 <div>
 <details>
   <summary> 💡 Datos sobre mí</summary>
 
-- 🇻🇪 En este momento vivo en mi país de origen Venezuela
+- 🇻🇪 En este momento vivo en mi país de origen, Venezuela
   
-- 🐍 Puedo hablar varios idiomas como inglés (C1-C2), chino mandarín (B2) y portugués (B1)… y si quieres contarlo, ¡Python también!
+- 🐍 Puedo hablar varios idiomas como inglés (C1-C2), chino mandarín (B2) y portugués (B1) y...¡Python también!
 
 - ✍🏻 Publico algunas de mis experiencias y resultados de investigación en mi [Blog personal](https://danielabai.medium.com/) y, a veces, en mi [Cuenta de Youtube](https://www.youtube.com/channel /UCR27ZeJPvnTQpPIdU9JKpnw)
 
@@ -37,7 +37,7 @@ Desde muy pequeña tuve un gran interés en la tecnología, lo que me permitió 
 
 Software de traducción: es un software que puede traducir texto en mandarín simplificado, mandarín tradicional, mandarín pinyin, cantonés, cantonés pinyin (jyutping), chino zhuyin y también chino Unicode.
 
-Lenguajes y tecnologías utilizadas:: `PyCharm` , `Python`:`Python Tkinter`,`Python RegEx`
+Lenguajes y tecnologías utilizadas: `PyCharm` , `Python`:`Python Tkinter`,`Python RegEx`
   
 ### 💼 Work Experience
   
