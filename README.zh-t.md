@@ -4,11 +4,11 @@
   
 其他語言閱讀：[英文](README.md) · [西班牙文](README.sp.md) · [葡萄牙文](README.pt.md) · [簡體中文](README.zh-s.md) · [繁體中文](README.zh-t.md).
   
-## 👩🏼‍💻我是誰
+## 👩🏼‍💻 我是誰
 
-大家好，我叫 Daniela Barazarte，又名 Daniela Bai 🤍
+大家好，我叫 Daniela Barazarte (白黛瀾)，又名 Daniela Bai 🤍
 
-從很小的時候我就對技術産生了濃厚的興趣，這讓我隨著時間的推移學到了更多，我意識到作為一名程序員有很多我喜歡的東西，比如寫作、創作、繪畫、解決問題和消費。 很多時間學習新事物。
+從很小的時候我就對技術産生了濃厚的興趣，這讓我隨著時間的推移學到了更多，我意識到作為一名程序員有很多我喜歡的東西，比如寫作、創作、繪畫、解決問題和花時間學習新事物
 
 <p>
 <div>
@@ -17,9 +17,9 @@
 
 - 🇻🇪 我目前住在我的祖國委內瑞拉
   
-- 🐍 我會說多種語言，例如英語（C1-C2）、普通話（B2）和葡萄牙語（B1）……如果你想數的話，Python 也一樣！
+- 🐍 我會說多種語言，例如英語（C1-C2）、普通話（HSK4, B2）和葡萄牙語（B1）……如果你想數的話，Python 也一樣！
 
-- ✍🏻 我會在我的 [個人博客](https://danielabai.medium.com/) 上發布我的一些經驗和研究結果，有時也會在我的 [YouTube 帳戶](https://www.youtube.com /channel /UCR27ZeJPvnTQpPIdU9JKpnw)
+- ✍🏻 我會在我的 [個人博客](https://danielabai.medium.com/) 上發布我的一些經驗和研究結果，有時也會在我的 [YouTube 頻道](https://www.youtube.com /channel /UCR27ZeJPvnTQpPIdU9JKpnw)
 
 - 👩🏼‍🎨 我也喜歡平面設計，我的個人作品集可以在 [Behance](https://www.behance.net/danielabai) 上找到
   
@@ -76,7 +76,7 @@
 [Twitter](https://twitter.com/danielabai8) / [Instagram](https://instagram.com/danielabai8) / [Youtube](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw) / [媒體](https://danielabai.medium.com/) / [Behance](https://www.behance.net/danielabai)
 <p>
 
-> 順便說一句，你可以在推特上聯系我，我很活躍！
+> 順便說一句，你可以在推特上聯系我！
 >
   
 
