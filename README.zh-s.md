@@ -6,9 +6,9 @@
   
 ## 👩🏼‍💻我是谁
 
-大家好，我叫 Daniela Barazarte，又名 Daniela Bai 🤍
+大家好，我叫 Daniela Barazarte (白黛澜)，又名 Daniela Bai 🤍
 
-从很小的时候我就对技术产生了浓厚的兴趣，这让我随着时间的推移学到了更多，我意识到作为一名程序员有很多我喜欢的东西，比如写作、创作、绘画、解决问题和消费。 很多时间学习新事物。
+从很小的时候我就对技术产生了浓厚的兴趣，这让我随着时间的推移学到了更多，我意识到作为一名程序员有很多我喜欢的东西，比如写作、创作、绘画、解决问题和花时间学习新事物
 
 <p>
 <div>
@@ -17,9 +17,9 @@
 
 - 🇻🇪 我目前住在我的祖国委内瑞拉
   
-- 🐍 我会说多种语言，例如英语（C1-C2）、普通话（B2）和葡萄牙语（B1）……如果你想数的话，Python 也一样！
+- 🐍 我会说多种语言，例如英语（C1-C2）、普通话（HSK4, B2）和葡萄牙语（B1）……如果你想数的话，Python 也一样！
 
-- ✍🏻 我会在我的 [个人博客](https://danielabai.medium.com/) 上发布我的一些经验和研究结果，有时也会在我的 [YouTube 帐户](https://www.youtube.com /channel /UCR27ZeJPvnTQpPIdU9JKpnw)
+- ✍🏻 我会在我的 [个人博客](https://danielabai.medium.com/) 上发布我的一些经验和研究结果，有时也会在我的 [YouTube 频道](https://www.youtube.com /channel /UCR27ZeJPvnTQpPIdU9JKpnw)
 
 - 👩🏼‍🎨 我也喜欢平面设计，我的个人作品集可以在 [Behance](https://www.behance.net/danielabai) 上找到
   
@@ -76,7 +76,7 @@
 [Twitter](https://twitter.com/danielabai8) / [Instagram](https://instagram.com/danielabai8) / [Youtube](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw) / [媒体](https://danielabai.medium.com/) / [Behance](https://www.behance.net/danielabai)
 <p>
 
-> 顺便说一句，你可以在推特上联系我，我很活跃！
+> 顺便说一句，你可以在推特上联系我！
 >
   
 
