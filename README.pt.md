@@ -8,7 +8,7 @@ Leia em outros idiomas: [Inglês](README.md) · [Español](README.sp.md) · [Por
 
 Olá, meu nome é Daniela Barazarte, também conhecida como Daniela Bai 🤍
 
-Desde muito jovem tive um grande interesse por tecnologia, o que me permitiu aprender mais com o passar do tempo e percebi que ser programador tem muitas coisas que gosto, como escrever, criar, desenhar, resolver problemas e gastando. muito tempo aprendendo coisas novas.
+Desde muito jovem tive um grande interesse por tecnologia, o que me permitiu aprender mais com o passar do tempo e percebi que ser programador tem muitas coisas que gosto, como escrever, criar, desenhar, resolver problemas e passar muito tempo aprendendo coisas novas.
 
 <p>
 <div>
@@ -17,7 +17,7 @@ Desde muito jovem tive um grande interesse por tecnologia, o que me permitiu apr
 
 - 🇻🇪 No momento moro no meu país de origem Venezuela
   
-- 🐍 Falo vários idiomas como inglês (C1-C2), chinês mandarim (B2) e português (B1)… e se quiser contar, Python também!
+- 🐍 Falo vários idiomas como inglês (C1-C2), chinês mandarim (B2) e português (B1) e... Python também!
 
 - ✍🏻 Posto algumas das minhas experiências e resultados de pesquisa no meu [blog pessoal](https://danielabai.medium.com/) e às vezes na minha [conta do YouTube](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw)
 
@@ -33,17 +33,17 @@ Desde muito jovem tive um grande interesse por tecnologia, o que me permitiu apr
 
 <img align="left" height="100px" width="100px" alt="Simtracan Translator Logo" src="https://github.com/danielabai/danielabai/blob/main/projects/Simtracan%20Translator.png?raw=true"/>
 
-**[Simtracan Translator](https://github.com/danielabai/simtracan-translator)** **| Criador, Engenheiro de Software, UI/UX Designer e Designer Gráfico | Set.2022 - Nov.2022**
+**[Simtracan Translator](https://github.com/danielabai/simtracan-translator)** **| Criadora, Engenheira de Software, UI/UX Designer e Designer Gráfica | Set.2022 - Nov.2022**
 
 Software de tradução: é um software que pode traduzir texto para mandarim simplificado, mandarim tradicional, mandarim pinyin, cantonês, cantonês pinyin (Jyutping), chinês zhuyin e também chinês unicode.
 
-Linguagens e tecnologias utilizadas:: `PyCharm` , `Python`:`Python Tkinter`,`Python RegEx`
+Linguagens e tecnologias utilizadas: `PyCharm` , `Python`:`Python Tkinter`,`Python RegEx`
   
 ### 💼 Experiência profissional
   
 <img align="left" height="100px" width="100px" alt="Punto Singular Logo" src="https://github.com/danielabai/danielabai/blob/main/work_experience/punto_singular.png?raw=true"/>
 
-**Ponto Singular · Práticas | engenheiro de software | Dez.2022 - Presente**
+**Ponto Singular · Práticas | Engenheira de software | Dez.2022 - Presente**
 
 Desenvolvendo experiência e conhecimento como Engenheiro de Software
 
