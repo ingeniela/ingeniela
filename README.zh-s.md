@@ -4,7 +4,7 @@
   
 其他语言阅读：[英文](README.md) · [西班牙文](README.sp.md) · [葡萄牙文](README.pt.md) · [简体中文](README.zh-s.md) · [繁体中文](README.zh-t.md).
   
-## 👩🏼‍💻我是谁
+## 👩🏼‍💻 我是谁
 
 大家好，我叫 Daniela Barazarte (白黛澜)，又名 Daniela Bai 🤍
 
