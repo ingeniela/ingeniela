@@ -73,7 +73,7 @@ Some of the achievements I have gotten.
 
 ## 📞 Where else I'm at
 
-[Twitter](https://twitter.com/danielabai8) / [Instagram](https://instagram.com/danielabai8)  / [Youtube](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw)  / [Medium](https://danielabai.medium.com/)  / [Behance](https://www.behance.net/danielabai)
+[Check my Linktr.ee](https://linktr.ee/danielabai)
 <p>
 
 > BTW, you can contact me in my Twitter! I check it almost everyday :)
