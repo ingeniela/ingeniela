@@ -19,9 +19,9 @@ Since I was young I had a big interest in technology, which allowed me to learn 
 
 - 🐍 I can speak multiple languages as English (C1-C2), Mandarin Chinese (B2) and Portuguese (B1)… and if you want to count it, Python too!
 
-- ✍🏻 I post some of my experiences and research results on my [Personal Blog](https://danielabai.medium.com/) and sometimes on my [Youtube Account](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw)
+- ✍🏻 I post some of my experiences and research results on my [Personal Blog](https://danielabarazarte.medium.com/) and sometimes on my [Youtube Account](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw)
 
-- 👩🏼‍🎨 I’m also into Graphic Design and my personal Portafolio is available on [Behance](https://www.behance.net/danielabai)
+- 👩🏼‍🎨 I’m also into Graphic Design and my personal Portafolio is available on [Behance](https://www.behance.net/danielabarazarte)
 
 - 👩🏼‍💻 But right now I’m mainly working on my ability as a programmer posting new projects here on GitHub
 </details>
