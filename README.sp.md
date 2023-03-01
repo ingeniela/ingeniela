@@ -6,7 +6,7 @@ Lee esto en otros idiomas: [English](README.md) · [Español](README.sp.md) · [
   
 ## 👩🏼‍💻 Quien soy
 
-Hola, mi nombre es Daniela Barazarte, también conocida como Daniela Bai 🤍
+Hola, mi nombre es Daniela Barazarte, también conocida como Bai 🤍
 
 Desde muy pequeña tuve un gran interés en la tecnología, lo que me permitió aprender más sobre ella a medida que crecía y me di cuenta de que ser programadoradora tiene muchas cosas que disfruto, como escribir, crear, diseñar, resolver problemas e invertir mucho tiempo aprendiendo cosas nuevas.
 
@@ -19,9 +19,9 @@ Desde muy pequeña tuve un gran interés en la tecnología, lo que me permitió 
   
 - 🐍 Puedo hablar varios idiomas como inglés (C1-C2), chino mandarín (B2) y portugués (B1) y...¡Python también!
 
-- ✍🏻 Publico algunas de mis experiencias y resultados de investigación en mi [Blog personal](https://danielabai.medium.com/) y, a veces, en mi [Cuenta de Youtube](https://www.youtube.com/channel /UCR27ZeJPvnTQpPIdU9JKpnw)
+- ✍🏻 Publico algunas de mis experiencias y resultados de investigación en mi [Blog personal](https://danielabarazarte.medium.com/) y, a veces, en mi [Cuenta de Youtube](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw)
 
-- 👩🏼‍🎨 También me gusta el diseño gráfico y mi Portafolio personal está disponible en [Behance](https://www.behance.net/danielabai)
+- 👩🏼‍🎨 También me gusta el diseño gráfico y mi Portafolio personal está disponible en [Behance](https://www.behance.net/danielabarazarte)
   
 - 👩🏼‍💻 Pero ahora mismo estoy principalmente trabajando en mi habilidad como programador publicando nuevos proyectos aquí en GitHub
 </details>
@@ -31,9 +31,9 @@ Desde muy pequeña tuve un gran interés en la tecnología, lo que me permitió 
 
 ### 🚀 Proyectos
 
-<img align="left" height="100px" width="100px" alt="Simtracan Translator Logo" src="https://github.com/danielabai/danielabai/blob/main/projects/Simtracan%20Translator.png?raw=true"/>
+<img align="left" height="100px" width="100px" alt="Simtracan Translator Logo" src="https://github.com/danielabarazarte/danielabarazarte/blob/main/projects/Simtracan%20Translator.png?raw=true"/>
 
-**[Simtracan Translator](https://github.com/danielabai/simtracan-translator)** **| Creadora, Ingeniera de Software, Diseñadora UI/UX y Diseñadora Gráfico | Sep.2022 - Nov.2022**
+**[Simtracan Translator](https://github.com/danielabarazarte/simtracan-translator)** **| Creadora, Ingeniera de Software, Diseñadora UI/UX y Diseñadora Gráfico | Sep.2022 - Nov.2022**
 
 Software de traducción: es un software que puede traducir texto en mandarín simplificado, mandarín tradicional, mandarín pinyin, cantonés, cantonés pinyin (jyutping), chino zhuyin y también chino Unicode.
 
@@ -41,7 +41,7 @@ Lenguajes y tecnologías utilizadas: `PyCharm` , `Python`:`Python Tkinter`,`Pyth
   
 ### 💼 Work Experience
   
-<img align="left" height="100px" width="100px" alt="Punto Singular Logo" src="https://github.com/danielabai/danielabai/blob/main/work_experience/punto_singular.png?raw=true"/>
+<img align="left" height="100px" width="100px" alt="Punto Singular Logo" src="https://github.com/danielabarazarte/danielabarazarte/blob/main/work_experience/punto_singular.png?raw=true"/>
 
 **Punto Singular · Prácticas | Ingeniera de software | Dic.2022 - Presente**
 
@@ -73,7 +73,7 @@ Algunos de los logros que he obtenido.
 
 ## 📞 Me puedes encontrar en
 
-[Twitter](https://twitter.com/danielabai8) / [Instagram](https://instagram.com/danielabai8)  / [Youtube](https://www.youtube.com/channel/UCR27ZeJPvnTQpPIdU9JKpnw)  / [Medium](https://danielabai.medium.com/)  / [Behance](https://www.behance.net/danielabai)
+[Mira mi Linktr.ee]([https://twitter.com/danielabai8](https://linktr.ee/danielabarazarte))
 <p>
 
 > Por cierto, me puedes contactar por Twitter, soy bastante activa!
