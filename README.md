@@ -6,7 +6,7 @@ Read in other languages: [English](README.md) · [Español](README.sp.md) · [Po
   
 ## 👩🏼‍💻 Who am I
 
-Hello there, my name is Daniela Barazarte, also known as Daniela Bai 🤍
+Hello there, my name is Daniela Barazarte, also known as Bai 🤍
 
 Since I was young I had a big interest in technology, which allowed me to learn more about it as I grew up and come to realization that being a programmer has many thigns that I enjoy such as writing, creating, designing, solving problems and spending a lot of time learning new things.
 
@@ -31,9 +31,9 @@ Since I was young I had a big interest in technology, which allowed me to learn 
 
 ### 🚀 Projects
 
-<img align="left" height="100px" width="100px" alt="Simtracan Translator Logo" src="https://github.com/danielabai/danielabai/blob/main/projects/Simtracan%20Translator.png?raw=true"/>
+<img align="left" height="100px" width="100px" alt="Simtracan Translator Logo" src="https://github.com/danielabarazarte/danielabarazarte/blob/main/projects/Simtracan%20Translator.png?raw=true"/>
 
-**[Simtracan Translator](https://github.com/danielabai/simtracan-translator)** **| Creator, Software Engineer, UI/UX Designer and Graphic Designer | Sep.2022 - Nov.2022**
+**[Simtracan Translator](https://github.com/danielabarazarte/simtracan-translator)** **| Creator, Software Engineer, UI/UX Designer and Graphic Designer | Sep.2022 - Nov.2022**
 
 Translation Software: it's a software that can translate text in Simplified Mandarin, Traditional Mandarin, Mandarin Pinyin, Cantonese, Cantonese Pinyin (Jyutping), Chinese Zhuyin and also Chinese Unicode.
 
@@ -41,7 +41,7 @@ Languages & Technologies used: `PyCharm` , `Python`:`Python Tkinter`,`Python Reg
   
 ### 💼 Work Experience
   
-<img align="left" height="100px" width="100px" alt="Punto Singular Logo" src="https://github.com/danielabai/danielabai/blob/main/work_experience/punto_singular.png?raw=true"/>
+<img align="left" height="100px" width="100px" alt="Punto Singular Logo" src="https://github.com/danielabarazarte/danielabarazarte/blob/main/work_experience/punto_singular.png?raw=true"/>
 
 **Punto Singular · Internship | Software Engineer | Dec.2022 - Present**
 
@@ -73,7 +73,7 @@ Some of the achievements I have gotten.
 
 ## 📞 Where else I'm at
 
-[Check my Linktr.ee](https://linktr.ee/danielabai)
+[Check my Linktr.ee](https://linktr.ee/danielabarazarte)
 <p>
 
 > BTW, you can contact me in my Twitter! I check it almost everyday :)
@@ -81,5 +81,5 @@ Some of the achievements I have gotten.
   
 
 <p align="center">
-<img height="auto" width="5%" alt="Daniela Bai Logo (in GIF)" src="https://github.com/danielabai/danielabai/blob/main/logo/gif/Black2White.gif?raw=true"/>
+<img height="auto" width="5%" alt="Daniela Barazarte Logo (in GIF)" src="https://github.com/danielabarazarte/danielabarazarte/blob/main/logo/gif/Black2White.gif?raw=true"/>
 </p>
