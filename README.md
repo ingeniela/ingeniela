@@ -43,9 +43,9 @@ Languages & Technologies used: `PyCharm` , `Python`:`Python Tkinter`,`Python Reg
   
 <img align="left" height="100px" width="100px" alt="Punto Singular Logo" src="https://github.com/danielabarazarte/danielabarazarte/blob/main/work_experience/punto_singular.png?raw=true"/>
 
-**Punto Singular · Internship | Software Engineer | Dec.2022 - Present**
+**Punto Singular · Part Time | Software Engineering Instructor and e-Learning Manager | Mar.2023 - Present**
 
-Developing experience and knowledge as a Software Engineer
+Teaching about C#, .NET, MySQL and JavaScript
 
 Languages & Technologies used: `Visual Studio 2022` , `C#`·`.NET Core 6` , `ASP.NET MVC`·`Razor Pages` , `SQL`·`MySQL`·`SQLAlchemy` , `JavaScript`·`HTML`·`CSS`
  
