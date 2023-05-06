@@ -6,7 +6,7 @@ Read in other languages: [English](README.md) · [Español](README.sp.md) · [Po
   
 ## 👩🏼‍💻 Who am I
 
-Hello there, my name is Daniela Barazarte, also known as Bai 🤍
+Hello there, my name is Daniela Barazarte.
 
 Since I was young I had a big interest in technology, which allowed me to learn more about it as I grew up and come to realization that being a programmer has many thigns that I enjoy such as writing, creating, designing, solving problems and spending a lot of time learning new things.
 
@@ -16,6 +16,8 @@ Since I was young I had a big interest in technology, which allowed me to learn 
   <summary> 💡 Quick facts about me</summary>
 
 - 🇻🇪 Right now I live in my home country Venezuela
+
+- I'm 2004 kid (right now I'm 19yo)
 
 - 🐍 I can speak multiple languages as English (C1-C2), Mandarin Chinese (B2) and Portuguese (B1)… and if you want to count it, Python too!
 
