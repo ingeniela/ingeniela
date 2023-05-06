@@ -25,7 +25,7 @@ Since I was young I had a big interest in technology, which allowed me to learn 
 
 - 👩🏼‍🎨 I’m also into Graphic Design and my personal Portafolio is available on [Behance](https://www.behance.net/danielabarazarte)
 
-- 👩🏼‍💻 But right now I’m mainly working on my ability as a programmer posting new projects here on GitHub
+- 👩🏼‍💻 I'm willing to create an startup in the near future
 </details>
 <p>
  
