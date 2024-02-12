@@ -43,6 +43,6 @@
   </a>
     <a href="tiktok.com/@ingeniela" target="blank">
     <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png" alt="Cuenta de TikTok" height="25px"/> TikTok</a>
-  <span style="width: 8px;"> </span>
-  <a href="https://twitter.com/midudev" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" alt="Cuenta de Twitter" height="20px"/>Twitter</a>
+  <a href="https://twitter.com/ingeniela" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" alt="Cuenta de Twitter" height="20px"/>Twitter
+  </a>
