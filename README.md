@@ -35,14 +35,14 @@
 #### Mis redes sociales
 
 <p align="left">
-   <a href="https://youtube.com/ingeniela" target="blank">
+   <a href="https://www.youtube.com/@ingeniela" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="Canal de YouTube" height="20px" /> YouTube
   </a>
-  <a href="https://instagram.com/ingeniela" target="blank">
+  <a href="https://instagram.com/laingeniela" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Cuenta de Instagram" height="23px" /> Instagram
   </a>
     <a href="tiktok.com/@ingeniela" target="blank">
     <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Tiktok-512.png" alt="Cuenta de TikTok" height="25px"/> TikTok</a>
-  <a href="https://twitter.com/ingeniela" target="blank">
+  <a href="https://twitter.com/laingeniela" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" alt="Cuenta de Twitter" height="20px"/>Twitter
   </a>
